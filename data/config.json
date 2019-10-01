@@ -13,4 +13,21 @@
     "label": "Armour",
     "directory": "Armour"
   }],
+  "data": [
+    {
+      "type": "point",
+      "point": [547011.4, 6890725.7, 0],
+      "name": "Palm Beach WRB",
+      "category": "Nearshore monitoring sites",
+      "modal": {
+        "exportSrc": "data/PalmBachWRB/data.zip",
+        "imgs": [
+          {
+            "label": "Wave rose swell",
+            "imgSrc": "data/PalmBachWRB/swellRose.png"
+          }
+        ]
+      }
+    }
+  ]
 }
