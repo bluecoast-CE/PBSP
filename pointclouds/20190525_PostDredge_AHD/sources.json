@@ -1,0 +1,1 @@
+{"bounds":{"min":[546153.25,6890733.75,-9.46],"max":[546378.25,6890889.25,-3.27]},"projection":"+proj=utm +zone=56 +south +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs","sources":[{"name":"20190525_PostDredge_AHD_col.laz","points":90151,"bounds":{"min":[546153.25,6890733.75,-9.46],"max":[546378.25,6890889.25,-3.27]}}]}
