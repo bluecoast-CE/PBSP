@@ -13,40 +13,4 @@
     "label": "Armour",
     "directory": "Armour"
   }],
-  "data": [
-    {
-      "type": "point",
-      "point": [547011.4, 6890725.7, 0],
-      "name": "Palm Beach WRB",
-      "category": "Nearshore monitoring sites",
-      "modal": {
-        "exportSrc": "data/PalmBachWRB/EmuPointdata.zip",
-        "imgs": [
-          {
-            "label": "Wave rose swell",
-            "imgSrc": "data/PalmBachWRB/swellRose.png"
-          }
-        ]
-      }
-    },{
-      "type": "profile",
-      "category": "Structure sections",
-      "points": [
-        [546334.2,6890778.3,1.0],
-        [546160.3,6890825.0,1.0]
-      ],
-      "name": "S11",
-      "modal": {
-        "exportSrc": "data/S11/OH-02transect.zip",
-        "imgs": [
-          {
-            "label": "Trans plot",
-            "imgSrc": "data/S11/Trns_Plot_OH-02.png"
-          }
-        ]
-      }
-    }
-  ]
 }
-
-  
